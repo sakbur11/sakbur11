@@ -12,7 +12,7 @@ I have a passion for cyber security and eager to enhance my skills. Currently I 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/sakbur11/Detection-Lab-">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -47,5 +47,5 @@ I have a passion for cyber security and eager to enhance my skills. Currently I 
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/sakbur11/Detection-Lab-">Detection Lab</a>
 - SOC Automation Project
