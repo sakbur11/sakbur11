@@ -7,7 +7,6 @@ I am a Cybersecurity Specialist with a profound interest in technology and a ded
 I have a passion for cyber security and eager to enhance my skills. Currently I work in incident response for a technology company supporting a high profile client. I am part of a security team that is involved in providing various services to our client that includes Security Operations/ Engineering, Vulnerability Management, and Incident Response. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ I have a passion for cyber security and eager to enhance my skills. Currently I 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
